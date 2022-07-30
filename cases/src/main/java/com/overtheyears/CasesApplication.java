@@ -1,4 +1,4 @@
-package com.overtheyears.cases;
+package com.overtheyears;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
